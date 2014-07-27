@@ -1,3 +1,3 @@
-[easyadapter sample](https://github.com/droidwolf/easyadapter](https://github.com/droidwolf/easyadapter )
+[easyadapter](https://github.com/droidwolf/easyadapter "easyadapter") sample
 
-[easyadapter示例](https://github.com/droidwolf/easyadapter](https://github.com/droidwolf/easyadapter )
+[easyadapter](https://github.com/droidwolf/easyadapter "easyadapter") 示例
